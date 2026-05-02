@@ -30,17 +30,6 @@ This project aims to detect fraudulent credit card transactions using Machine Le
 
 ---
 
-## 📂 Project Structure
-project/
-│── data/
-│── src/
-│── models/
-│── notebooks/
-│── README.md
-
-
----
-
 ## 📊 Results
 The model successfully detects fraudulent transactions with good accuracy and performance.
 
